@@ -1,0 +1,91 @@
+leader	05606cam a2201105 i 4500
+001	9941061286202636
+005	20250305123737.0
+008	141125t20152015nyu    c      000 1 eng d
+010	##$a  2014957885 
+019	##$a919296653 $a919581658 $a919691009 $a930772972 $a939273979 $a1260844448 
+020	##$a9780545812542 
+020	##$a0545812542 
+020	##$a9780606401401 
+020	##$a0606401407 
+020	##$a9780545880060 
+020	##$a0545880068 
+024	8#$a99967236511 
+024	8#$a40025611431 
+035	##$a(OCoLC)900624128 $z(OCoLC)919296653 $z(OCoLC)930772972 
+035	##$a(OCoLC)ocn900624128 
+035	##$a(OCoLC)900624128 $z(OCoLC)919296653 $z(OCoLC)919581658 $z(OCoLC)919691009 $z(OCoLC)930772972 $z(OCoLC)939273979 $z(OCoLC)1260844448 
+040	##$aYDXCP $beng $erda $cDLC $dYDXCP $dBDX $dBTCTA $dWIM $dFOLLT $dOJ4 $dEHH $dNYP $dSUC $dVP@ $dJHE $dUAB $dOCLCF $dZCU $dC9Z $dCOO $dCTW $dDEERP $dINA $dIDU $dCTB $dFIC $dGZS $dKB6 $dCAUOI $dT2S $dXFF $dGZU $dTPA $dS3O $dPAU $dBYV $dCHILD $dOCLCQ $dORU $dOCL $dOCLCO $dOCLCQ $dTAW $dVTU $dVBO $dRIU $dCNGUL $dDUD $dPUG $dHTM $dBOS $dOCLCO $dCSO $dCBA $dOCLCO $dTL4 $dIGA $dNZAUC $dOCLCO $dTJC $dOCLCO $dNJT $dXXWGB $dUII $dOCLCO $dOCLCQ $dOCLCO $dOCLCA $dOCL $dOCLCO $dCFS $dMIQ $dLIQ $dORX $dOCLCO $dDVP $dGYG $dDLC $dPFLCL 
+042	##$alccopycat 
+049	##$aKUKK 
+050	00$aPZ7.1.G576 $bGeo 2015 
+050	#4$aPS3607.I4583 $bG46 2015 
+055	#8$aFIC $bGIN 
+082	04$a[Fic] $223 
+099	##$aJF GIN 
+100	1#$aGino, Alex, $eauthor. 
+245	10$aMelissa's story / $cAlex Gino. 
+246	1#$iOriginal title: $aGeorge 
+246	1#$iAuthor's preferred title: $aMelissa's story 
+250	##$aFirst edition. 
+264	#1$aNew York : $bScholastic Press, $c2015. 
+264	#4$c©2015 
+300	##$a195 pages ; $c22 cm 
+336	##$atext $btxt $2rdacontent 
+337	##$aunmediated $bn $2rdamedia 
+338	##$avolume $bnc $2rdacarrier 
+520	##$a"When people look at George, they think they see a boy. But she knows she's not a boy. She knows she's a girl. George thinks she'll have to keep this a secret forever. Then her teacher announces that their class play is going to be Charlotte's Web. George really, really, REALLY wants to play Charlotte. But the teacher says she can't even try out for the part ... because she's a boy. With the help of her best friend, Kelly, George comes up with a plan. Not just so she can be Charlotte -- but so everyone can know who she is, once and for all"-- $cprovided by publisher. 
+586	##$aStonewall Book Award, Mike Morgan & Larry Romans Children's & Young Adult Literature Award, 2016 
+586	##$aNCTE Charlotte Huck Award for Outstanding Fiction for Children Recommended Book, 2016 
+586	##$aRainbow Book List Award, 2016 
+586	##$aNotable Social Studies Trade Books for Young People, 2016 
+586	##$aLambda Literary Award, 2015 
+521	2#$aGrades 3 - 7. 
+521	##$aMiddle School. 
+521	8#$a790 $bLexile. 
+500	##$a"Hey folks, just a reminder that I made a huge mistake in the title of my first book, GEORGE. That is a name my MC never wants to hear again. She is fictional and it's in the narrative for a reason, but the title could have been just about anything different. I'm sorry, Melissa."--tweet from the author, @lxgino, December 2, 2018. 
+546	##$aText in English. 
+526	0#$aAccelerated Reader $c5.0. 
+526	0#$aReading Counts! $c5.2. 
+526	0#$aAccelerated Reader AR $bMG $c5.0 $d4.0 $z176832. 
+526	0#$aReading Counts RC $b3-5 $c5.2 $d8 $zQuiz: 66404. 
+505	00$gMachine generated contents note: $gch. I $tSecrets -- $gch. II $tCharlotte Dies -- $gch. III $tActing Is Just Pretend -- $gch. IV $tAnticipation -- $gch. V $tAuditions -- $gch. VI $tTaken -- $gch. VII $tTime Drags When You're Miserable -- $gch. VIII $tSome Jerk -- $gch. IX $tDinner at Arnie's -- $gch. X $tTransformations -- $gch. XI $tInvitations. 
+650	#0$aGender identity $vJuvenile fiction. 
+650	#0$aTransgender youth $vJuvenile fiction. 
+650	#0$aTransgender children $vJuvenile fiction. 
+650	#0$aGender nonconformity $vJuvenile fiction. 
+650	#0$aMiddle school students $vJuvenile fiction. 
+650	#0$aBullying $vJuvenile fiction. 
+650	#0$aFriendship $vJuvenile fiction. 
+650	#1$aGender identity $vFiction. 
+650	#1$aMiddle school students $vFiction. 
+650	#1$aBullies and bullying $vFiction. 
+650	#1$aFriendship $vFiction. 
+650	#7$aHBTQ. $2barn 
+650	#7$aIdentitet. $2barn 
+650	#7$aSkolan. $2barn 
+650	#7$aMobbning. $2barn 
+650	#7$aVänskap. $2barn 
+650	#7$aGender identity $vJuvenile fiction. $2cct 
+650	#7$aTransgender youth $vJuvenile fiction. $2cct 
+650	#7$aTransgender children $vJuvenile fiction. $2cct 
+650	#7$aTransgenderism $vJuvenile fiction. $2cct 
+650	#7$aMiddle school students $vJuvenile fiction. $2cct 
+650	#7$aBullying $vJuvenile fiction. $2cct 
+650	#7$aFriendship $vJuvenile fiction. $2cct 
+650	#7$aGender identity $vFiction. $2cct 
+650	#7$aMiddle school students $vFiction. $2cct 
+650	#7$aBullying $vFiction. $2cct 
+650	#7$aFriendship $vFiction. $2cct 
+650	#7$aGender role $vFiction. $2cct 
+650	#7$aTheater $vFiction. $2cct 
+650	#7$aSchool stories. $2cct 
+650	#7$aTransgender people. $vFiction. $2cct 
+655	#0$aChildren's stories. 
+655	#7$aFiction. $2lcgft 
+655	#7$aTransgender fiction. $2lcgft 
+655	#7$aSchool fiction. $2lcgft 
+655	#7$aNovels. $2lcgft 
+909	##$aed juvenile 
+956	42$3Cover $uhttps://www.publishersweekly.com/images/cached/ARTICLE_PHOTO/photo/000/000/085/85554-v1-300x.JPG 
+994	##$aC0 $bKUK 
