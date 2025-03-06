@@ -1,0 +1,27 @@
+001	99357416802636
+005	20250305153328.0
+008	840507t19691959nyuf          000 1 eng d
+035	##$a(OCoLC)ocm10701031 
+035	##$9AAE2697LM 
+035	##$a(KyU)35741-ukdb 
+035	##$a(OCoLC)10701031 
+035	##$a(OCoLC)ocm10701031  
+040	##$aFJN $beng $cFJN $dOCL $dOCLCG $dZVM $dLQ4 $dOCLCO $dOCLCQ $dOCLCF $dOCLCQ $dOCLCO $dGILDS $dOCLCO $dCWI $dOCLCQ $dKUK 
+049	##$aKUKK 
+050	#4$aPZ7.A715 $bWat 
+082	04$a[Fic] $220 
+090	##$aPZ7.A715 $bWat 
+100	1#$aArmer, Laura Adams, $d1874-1963. 
+245	10$aWaterless mountain, $cby Laura Adams Armer, illustrated by Sidney Armer and Laura Adams Armer. 
+260	##$aNew York, $bD. McKay $c[1969, ©1959] 
+300	##$axi, 212 pages $bfrontispiece, plates $c24 cm 
+336	##$atext $btxt $2rdacontent 
+337	##$aunmediated $bn $2rdamedia 
+338	##$avolume $bnc $2rdacarrier 
+520	##$aYounger Brother, a Navaho Indian boy, undergoes eight years of training in the ancient religion of his people and the practical knowledge of material existence. 
+586	##$aNewbery Medal, 1932 
+650	#0$aNavajo Indians $vFiction. 
+655	#7$aFiction. $2lcgft 
+901	##$aUK_Main_Campus 
+956	42$3Cover $uhttps://m.media-amazon.com/images/I/91su4WZgS+L._SY466_.jpg 
+994	##$aC0 $bKUK 
